@@ -10,10 +10,7 @@
 ## Visualization
 - Minh hoạ hướng di chuyển của sói.
 - Đồ thị hội tụ GWO vs mGWO.
+## Cách chạy
+-python main.py
 
-## Communication Application
-Ví dụ tối ưu công suất P để tối đa SINR:
-\[
-SINR = \frac{P h^2}{\sigma^2 + I}
-\]
-GWO minimize → dùng hàm fitness = -SINR.
+
